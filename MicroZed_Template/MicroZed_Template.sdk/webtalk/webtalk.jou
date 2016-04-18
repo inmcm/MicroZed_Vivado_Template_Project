@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:37:43 MDT 2015
+# 
+# Start of session at: Sun Apr 17 20:01:56 2016
+# Process ID: 2180
+# Log file: D:/Work/Code/Repos/MicroZed_Vivado_Template_Project/MicroZed_Template/Generic_ARM.sdk/webtalk/webtalk.log
+# Journal file: D:/Work/Code/Repos/MicroZed_Vivado_Template_Project/MicroZed_Template/Generic_ARM.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
